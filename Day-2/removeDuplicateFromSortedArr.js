@@ -1,5 +1,14 @@
 // 26. Remove Duplicates from Sorted Array - Easy (LeetCode)
 
+// ---------Approach---------------
+
+// Two pointers i and j. i is at 0th poisiton and j is at 1st position
+// If we have 2 same element arr[i] === arr[j], just move j (i will remain at the same position)
+// If we find unique element, arr[i] !== arr[j], first move i by 1 (i++) and then overwrite the value i.e.
+// arr[i] = arr[j]
+
+// LEARNING: HOW TO POINTERS BEHAVE IN CASE OF UNIQUE AND DUPLICATE ELEMENT
+
 function removeDuplicateFromSortedArr() {
   if (nums.length === 0) return 0; // Edge case: empty array
 
