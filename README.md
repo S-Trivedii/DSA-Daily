@@ -19,3 +19,9 @@
 ### [find floor and ceil](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1)
 
 ### [floor/ceil in sorted array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?track=DSASP-Searching&amp%253BbatchId=154)
+
+## Day 15
+
+### [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
+### [First and Last Occurance in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
