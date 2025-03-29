@@ -25,3 +25,9 @@
 ### [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ### [First and Last Occurance in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+
+## Day 16
+
+### [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+### [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/)
