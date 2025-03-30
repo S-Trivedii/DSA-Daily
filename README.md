@@ -26,7 +26,7 @@
 
 ### [First and Last Occurance in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 
-## Day 16
+## Day 16 - 1st question do it again
 
 ### [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
