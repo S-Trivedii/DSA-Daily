@@ -31,3 +31,9 @@
 ### [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ### [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/)
+
+## Day 17
+
+### [Excel sheet column title](https://leetcode.com/problems/excel-sheet-column-title/)
+
+### [Length of last word](https://leetcode.com/problems/length-of-last-word/)
