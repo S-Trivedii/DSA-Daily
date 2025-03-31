@@ -37,3 +37,9 @@
 ### [Excel sheet column title](https://leetcode.com/problems/excel-sheet-column-title/)
 
 ### [Length of last word](https://leetcode.com/problems/length-of-last-word/)
+
+## Day 18
+
+### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+### [Sign of the product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
