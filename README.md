@@ -43,3 +43,11 @@
 ### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ### [Sign of the product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+
+## Day 18
+
+### [Find kth rotation](https://www.geeksforgeeks.org/problems/rotation4723/1)
+
+### [Fint nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
+
+### [Square Root using binary search](https://www.geeksforgeeks.org/problems/square-root/0)
