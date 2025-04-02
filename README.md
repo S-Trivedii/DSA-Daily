@@ -44,10 +44,16 @@
 
 ### [Sign of the product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
 
-## Day 18
+## Day 19
 
 ### [Find kth rotation](https://www.geeksforgeeks.org/problems/rotation4723/1)
 
 ### [Fint nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)
 
 ### [Square Root using binary search](https://www.geeksforgeeks.org/problems/square-root/0)
+
+## Day 20
+
+### [Minimum element in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1)
+
+### [Maximum element in BST]
