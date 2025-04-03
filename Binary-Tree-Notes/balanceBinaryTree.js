@@ -135,5 +135,5 @@ Now, let's calculate the height at each node:
           max(1, 0) + 1 = 1 + 1 = 2
 
 
-
+NOTE: We calculate height bottom-up because each node’s height depends on its children.
 */
