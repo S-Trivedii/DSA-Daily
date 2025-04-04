@@ -63,3 +63,9 @@
 ### [Pyramid Pattern]
 
 ### [Hollow Diamond Pattern]
+
+## Day 22
+
+### [Largest odd number in string](https://leetcode.com/problems/largest-odd-number-in-string/description/)
+
+### [LCM and GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
