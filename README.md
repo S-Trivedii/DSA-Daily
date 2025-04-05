@@ -69,3 +69,7 @@
 ### [Largest odd number in string](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 
 ### [LCM and GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
+
+## Day 23
+
+### [Reverse a word in string](https://leetcode.com/problems/reverse-words-in-a-string/)
