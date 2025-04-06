@@ -75,3 +75,9 @@
 ### [Reverse a word in string](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 ### [String Palindrome]
+
+## Day 24
+
+### [Count Vowels]
+
+### [First word capital]
