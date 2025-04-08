@@ -87,3 +87,9 @@
 ### [Sort Colors - 0, 1, 2](https://leetcode.com/problems/sort-colors/)
 
 ### [Single Element In Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+
+## Day 26
+
+### [Majority Element >n/2 Moore-Voting-Algo](https://leetcode.com/problems/majority-element/description/)
+
+### [Check If two Array Are Equal In Frequency]()
