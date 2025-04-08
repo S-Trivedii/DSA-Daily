@@ -1,6 +1,86 @@
 ## Questions
 
-### doItAgain Day-4(unionOf2Arr)
+---
+
+## Day 1
+
+### [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+
+### [Second Largest Without Sorting](https://www.geeksforgeeks.org/problems/second-largest3735/1)
+
+---
+
+## Day 2
+
+### [Check if the array is sorted & rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+
+### [Remove Duplicate From Sorted Array](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+
+---
+
+## Day 3
+
+### [Move Zeros to End](https://leetcode.com/problems/move-zeroes/description/)
+
+### [Rotate Array By 1 or D places](https://leetcode.com/problems/rotate-array/description/)
+
+---
+
+## Day 4
+
+### [Maximum Consecutive 1's in binary Array](https://leetcode.com/problems/max-consecutive-ones/description/)
+
+### [Single Number or Find a number appear only once](https://leetcode.com/problems/single-number/description/)
+
+### [Find Union ⭐](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
+
+---
+
+## Day 5
+
+### [Longest Subarray With Sum k - only positive]
+
+### [Longest Subarray With Sum k - positive + negative](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
+
+---
+
+## Day 6
+
+### [Find Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0)
+
+### [Linked List At End Insertion]
+
+---
+
+## Day 7
+
+### [Array to Doubly linked list](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)
+
+### [Array to Linked List](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)
+
+### [Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+
+### [Insert At A Given Position In DLL](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)
+
+### [Search In Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
+
+---
+
+## Day 8
+
+### [Delete In Doubly Linked List ⭐](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)
+
+### [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+
+---
+
+## Day 9
+
+### [Check if Array is Sorted](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+
+### [Missing Number ⭐]
+
+---
 
 ## Day 10
 
