@@ -114,10 +114,10 @@ const dutchNationalFlagAlgo = (nums) => {
 
 dutchNationalFlagAlgo([2, 0, 2, 1, 1, 0]);
 
-// When to use dutch national flag algorithm
-
 /*
-- You have an array with only 3 distinct elements
-- You want to sort them in-place
-- You want an efficient solution: O(n) time and O(1) space
+ When to use dutch national flag algorithm
+
+  - You have an array with only 3 distinct elements
+  - You want to sort them in-place
+  - You want an efficient solution: O(n) time and O(1) space
 */
