@@ -8,11 +8,15 @@
 
 ### Middle of Linked List
 
+---
+
 ## Day 13
 
 ### [2Sum](https://leetcode.com/problems/two-sum/description/)
 
 ### [Leaders in Array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)
+
+---
 
 ## Day 14
 
@@ -20,11 +24,15 @@
 
 ### [floor/ceil in sorted array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1?track=DSASP-Searching&amp%253BbatchId=154)
 
+---
+
 ## Day 15
 
 ### [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ### [First and Last Occurance in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+
+---
 
 ## Day 16 - 1st question do it again
 
@@ -32,17 +40,23 @@
 
 ### [Valid Parenthese](https://leetcode.com/problems/valid-parentheses/)
 
+---
+
 ## Day 17
 
 ### [Excel sheet column title](https://leetcode.com/problems/excel-sheet-column-title/)
 
 ### [Length of last word](https://leetcode.com/problems/length-of-last-word/)
 
+---
+
 ## Day 18
 
 ### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ### [Sign of the product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
+
+---
 
 ## Day 19
 
@@ -52,11 +66,15 @@
 
 ### [Square Root using binary search](https://www.geeksforgeeks.org/problems/square-root/0)
 
+---
+
 ## Day 20
 
 ### [Minimum element in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1)
 
 ### [Maximum element in BST]
+
+---
 
 ## Day 21
 
@@ -64,11 +82,15 @@
 
 ### [Hollow Diamond Pattern]
 
+---
+
 ## Day 22
 
 ### [Largest odd number in string](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 
 ### [LCM and GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1)
+
+---
 
 ## Day 23
 
@@ -76,17 +98,23 @@
 
 ### [String Palindrome]
 
+---
+
 ## Day 24
 
 ### [Count Vowels]
 
 ### [First word capital]
 
+---
+
 ## Day 25
 
 ### [Sort Colors - 0, 1, 2](https://leetcode.com/problems/sort-colors/)
 
 ### [Single Element In Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+
+---
 
 ## Day 26
 
