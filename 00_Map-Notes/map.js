@@ -35,3 +35,14 @@ function countOccurance(arr) {
 }
 
 countOccurance(arr);
+
+// Q. Traversing a Map
+const myMap = new Map([
+  ["name", "Shubhanshu"],
+  ["age", 22],
+  ["role", "MERN Developer"],
+]);
+
+for (const [key, value] of myMap) {
+  console.log(`${key} => ${value}`);
+}
