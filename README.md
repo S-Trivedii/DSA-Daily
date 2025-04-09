@@ -201,3 +201,11 @@
 ### [Majority Element >n/2 Moore-Voting-Algo](https://leetcode.com/problems/majority-element/description/)
 
 ### [Check If two Array Are Equal In Frequency]()
+
+---
+
+## Day 27
+
+### [Middle Of Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+
+### [Reverse Linked List - Iterative](https://leetcode.com/problems/reverse-linked-list/)
