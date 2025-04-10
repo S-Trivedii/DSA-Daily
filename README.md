@@ -209,3 +209,11 @@
 ### [Middle Of Linked List ⭐](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 
 ### [Reverse Linked List - Iterative ⭐](https://leetcode.com/problems/reverse-linked-list/)
+
+---
+
+## Day 28
+
+### [Delete Head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll)
+
+### [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
