@@ -225,3 +225,11 @@
 ### [Count Number of Digits, Uppercase, Losercase, Special Characters]
 
 ### [Check string has unique characters using ASCII]
+
+---
+
+## Day 30 - ASCII
+
+### [Convert lowercase to uppercase using ASCII]
+
+### [Caesar Cipher - ⭐]
