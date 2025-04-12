@@ -217,3 +217,11 @@
 ### [Delete Head of Doubly Linked List](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll)
 
 ### [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+---
+
+## Day 29 - ASCII
+
+### [Count Number of Digits, Uppercase, Losercase, Special Characters]
+
+### [Check string has unique characters using ASCII]
