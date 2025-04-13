@@ -233,3 +233,11 @@
 ### [Convert lowercase to uppercase using ASCII]
 
 ### [Caesar Cipher - ⭐]
+
+---
+
+## Day 31 - Python (Using ascii)
+
+### [First Non Repeating Character In a String]
+
+### [String Has Duplicate Characters]
