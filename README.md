@@ -249,3 +249,11 @@
 ### [Factorial of a number]
 
 ### [Fibonacci number]
+
+---
+
+## Day 31 - Python
+
+### [Reverse String]
+
+### [Sum of Digits]
