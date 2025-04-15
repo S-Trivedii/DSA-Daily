@@ -241,3 +241,11 @@
 ### [First Non Repeating Character In a String]
 
 ### [String Has Duplicate Characters]
+
+---
+
+## Day 31 - Python (Recursion)
+
+### [Factorial of a number]
+
+### [Fibonacci number]
