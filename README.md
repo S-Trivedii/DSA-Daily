@@ -244,7 +244,7 @@
 
 ---
 
-## Day 31 - Python (Recursion)
+## Day 32 - Python (Recursion)
 
 ### [Factorial of a number]
 
@@ -252,8 +252,17 @@
 
 ---
 
-## Day 31 - Python
+## Day 33 - Python
 
 ### [Reverse String]
 
 ### [Sum of Digits]
+
+---
+
+## Day 34 - Python
+
+### [Move zero to end]
+
+### [Rotate array by k]
+
