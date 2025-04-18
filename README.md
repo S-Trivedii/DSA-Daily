@@ -266,3 +266,14 @@
 
 ### [Rotate array by k]
 
+---
+
+
+## Day 35 - Python
+
+### [Maximum cons. 1s]
+
+### [Single Number - Solved using dictionary, equivalent of Map]
+
+
+
