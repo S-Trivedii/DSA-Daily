@@ -9,7 +9,7 @@
 // ----------Understanding-----------
 
 /*
-Q. 1 what if k is greater than the length of array - k > nums.length 
+Q. 1 what if k is greater than the length of array -> k > nums.length 
 For e.g.  [1,2,3,4,5,6,7], k = 9
 
 Q. 2 What if k = 0

@@ -28,7 +28,8 @@ function moveZero(nums) {
   let i = 0,
     j = 1;
 
-  if (nums[i] === 0 && nums[j] !== 0) {
+  while(j < nums.length) {
+    if (nums[i] === 0 && nums[j] !== 0) {
     // Swap only when nums[i] is zero and nums[j] is non-zero
     [nums[i], nums[j]] = [nums[j], nums[i]];
     i++;
@@ -37,6 +38,8 @@ function moveZero(nums) {
     i++;
   }
   j++; // Always move j forward
+  }  
+  
 }
 
 moveZero([0, 1, 0, 3, 12]); // [1,3,12,0,0]
