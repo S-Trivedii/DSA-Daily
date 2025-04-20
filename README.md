@@ -268,12 +268,18 @@
 
 ---
 
-
 ## Day 35 - Python
 
 ### [Maximum cons. 1s]
 
 ### [Single Number - Solved using dictionary, equivalent of Map]
 
+---
 
+## Day 36 - Python
 
+### [2 Sum] - More notes in python like Maps
+
+### [Leader in Array] - Notes like clever of reversing a list, reverse loop etc
+
+---
