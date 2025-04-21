@@ -283,3 +283,9 @@
 ### [Leader in Array] - Notes like clever of reversing a list, reverse loop etc
 
 ---
+
+## Day 37 - Python
+
+### [Array to Linked List]
+
+### [Valid Parenthese]
