@@ -289,3 +289,11 @@
 ### [Array to Linked List]
 
 ### [Valid Parenthese]
+
+---
+
+## Day 38
+
+### [Sub Array Sum Equal k] (https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+### [Contains Duplicate]
