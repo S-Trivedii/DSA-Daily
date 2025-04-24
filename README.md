@@ -297,3 +297,13 @@
 ### [Sub Array Sum Equal k] (https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 ### [Contains Duplicate]
+
+---
+
+## Day 39
+
+### [Rolling Sum] 
+
+### [Wave From String]
+
+
