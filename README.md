@@ -306,4 +306,11 @@
 
 ### [Wave From String]
 
+---
 
+
+## Day 40
+
+### [Count pair with given sum ] (https://leetcode.com/problems/subarray-sum-equals-k/description/)
+
+### [Contains Duplicate]
