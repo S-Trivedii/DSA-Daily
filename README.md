@@ -311,6 +311,6 @@
 
 ## Day 40
 
-### [Count pair with given sum ] (https://leetcode.com/problems/subarray-sum-equals-k/description/)
+### [Count pair with given sum ⭐] 
 
-### [Contains Duplicate]
+### [Split binary string into equal 0s and 1s]
