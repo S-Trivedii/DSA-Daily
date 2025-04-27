@@ -314,3 +314,11 @@
 ### [Count pair with given sum ⭐] 
 
 ### [Split binary string into equal 0s and 1s]
+
+---
+
+## Day 41 - Sliding Window (Fixed size window)
+
+### [First Negative Num In Every Subarray of Size k ⭐] 
+
+### [Find Subarray of Size k Whose Sum Is Maximum]
